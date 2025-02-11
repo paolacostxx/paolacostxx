@@ -25,7 +25,7 @@ Sou uma estudante de desenvolvimento de software com experiência em vendas e at
 Desenvolvendo um sistema para controle de clientes, projetos, estoque e orçamentos utilizando **C# com WinForms** e **ADO.NET**.
 
 🔹 **[Automação residencial com ESP32](#)**  
-Projeto de Trabalho de Conclusão de Curso com controle de emabiente e monitoramento utilizando **ESP32** e **C++**.
+Projeto de Trabalho de Conclusão de Curso com controle de ambiente e monitoramento utilizando **ESP32** e **C++**.
 
 
 
