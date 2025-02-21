@@ -12,6 +12,15 @@ Sou uma estudante de desenvolvimento de software com experiência em vendas e at
 ## 🛠 Tecnologias e Ferramentas
 
 - **Linguagens:** C#, SQL, HTML, CSS, JavaScript
+- 
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+            
+          
+          
 - **Frameworks:** .NET Framework, ADO.NET
 - **Banco de Dados:** SQL Server, MySQL
 - **Ferramentas:** Visual Studio, Git, GitHub
