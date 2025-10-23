@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Sobre mim
-Sou uma estudante de Análise e desenvolvimento de sistemas com experiência em vendas e atendimento ao cliente. Atualmente, sou estagiária de desenvolvimento web utilizando tecnologias como PHP. Tenho habilidades em **.NET, C# e ADO.NET**, além de trabalhar em projetos de **gestão de obras** e aplicativos desktop com **WinForms**.
+Sou uma estudante de Análise e desenvolvimento de sistemas com experiência em programação web. Atualmente, sou estagiária de desenvolvimento web utilizando tecnologias como PHP. Tenho habilidades em **.NET, C# e ADO.NET**, além de trabalhar em projetos de **gestão de obras** e aplicativos desktop com **WinForms**.
 
 ---
 
